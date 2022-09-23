@@ -6,3 +6,4 @@ packaging==21.3
 pygame==2.1.2
 pyparsing==3.0.9
 toml==0.10.2
+Pillow==8.4.0
