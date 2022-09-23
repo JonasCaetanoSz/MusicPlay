@@ -1,0 +1,8 @@
+coverage==5.5
+deprecation==2.1.0
+eyed3==0.9.6
+filetype==1.1.0
+packaging==21.3
+pygame==2.1.2
+pyparsing==3.0.9
+toml==0.10.2
